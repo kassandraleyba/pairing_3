@@ -6,3 +6,10 @@ numbers.each do |number|
     else
     end
 end
+
+numbers.each do |number|
+    if number < 60
+        p number 
+    else
+    end
+end
